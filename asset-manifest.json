@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/desktop-tutorial/static/css/main.c596cae1.css",
-    "main.js": "/desktop-tutorial/static/js/main.1f2770b8.js",
+    "main.js": "/desktop-tutorial/static/js/main.b9af4691.js",
     "static/js/787.719ec76d.chunk.js": "/desktop-tutorial/static/js/787.719ec76d.chunk.js",
     "index.html": "/desktop-tutorial/index.html",
     "main.c596cae1.css.map": "/desktop-tutorial/static/css/main.c596cae1.css.map",
-    "main.1f2770b8.js.map": "/desktop-tutorial/static/js/main.1f2770b8.js.map",
+    "main.b9af4691.js.map": "/desktop-tutorial/static/js/main.b9af4691.js.map",
     "787.719ec76d.chunk.js.map": "/desktop-tutorial/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c596cae1.css",
-    "static/js/main.1f2770b8.js"
+    "static/js/main.b9af4691.js"
   ]
 }

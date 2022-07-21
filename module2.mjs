@@ -1,7 +1,7 @@
 const a = "Divya";
-const a = "Gopal";
-const a = "Divyesh";
-const a = "Hetal";
+const b = "Gopal";
+const c = "Divyesh";
+const d = "Hetal";
 
 export default b;
 export {a};

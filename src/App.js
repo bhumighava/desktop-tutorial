@@ -63,8 +63,7 @@ export default function App() {
         </Router>
         {/* <TextForm showAlert={showAlert} heading="Enter the text to analyze below" mode={mode} /> */}
         {/* <div className= "Container my-1"/> */}
-         {/* <About/> */}
-         
+        <About/>         
         {/* <About/> */}
     </>
   );
